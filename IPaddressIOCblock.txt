@@ -1,4 +1,4 @@
-#Block IP by Request 1
+#Block IP by Request 0
 104.208.30.108
 109.74.204.123
 116.203.104.216
